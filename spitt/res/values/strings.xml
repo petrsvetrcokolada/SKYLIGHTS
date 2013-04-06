@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spitt</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_image_str">Title Image</string>
+    <string name="SpittTitle">Spitt</string>
+
+</resources>
